@@ -1,0 +1,15 @@
+{
+  "ru": {
+    "gameTitle": "Как достать соседа",
+    "startGame": "Начать игру",
+    "settings": "Опции",
+    "authors": "Авторы"
+  },
+
+  "en": {
+    "gameTitle": "Neighbours from hell",
+    "startGame": "Start game",
+    "settings": "Settings",
+    "authors": "Authors"
+  }
+}

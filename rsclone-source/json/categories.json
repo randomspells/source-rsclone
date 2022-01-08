@@ -1,0 +1,27 @@
+{
+  "ru": {
+    "episodeList": "Выбор эпизода",
+    "episodeDetails": "Описание серии",
+    "intro": "Вступление",
+    "seasonOne": "Сезон 1",
+    "seasonTwo": "Сезон 2",
+    "backToMain": "Вернуться в главное меню",
+    "startEpisode": "Начать эпизод",
+    "hintTitle": "Подсказка!",
+    "minimumRating": "Минимальный рейтинг",
+    "duration": "Длительность"
+  },
+
+  "en": {
+    "episodeList": "Episode selection",
+    "episodeDetails": "Episode details",
+    "intro": "Introduction",
+    "seasonOne": "Season 1",
+    "seasonTwo": "Season 2",
+    "backToMain": "Back to main menu",
+    "startEpisode": "Play Episode",
+    "hintTitle": "Hint!",
+    "minimumRating": "Minimum rating",
+    "duration": "Duration"
+  }
+}

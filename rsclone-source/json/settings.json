@@ -1,0 +1,21 @@
+{
+  "ru": {
+    "velocity": "Громкость",
+    "music": "Музыка",
+    "resetProgress": "Удалить прогресс игры",
+    "timeLimit": "Ограничение по времени",
+    "trickReport": "Отчет по пакостям",
+    "cancel": "Отмена",
+    "ok": "Ок"
+  },
+
+  "en": {
+    "velocity": "Velocity",
+    "music": "Music",
+    "resetProgress": "Reset game progress",
+    "timeLimit": "Time limit",
+    "tricksReport": "Tricks report",
+    "cancel": "Cancel",
+    "ok": "Ok"
+  }
+}

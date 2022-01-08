@@ -1,0 +1,43 @@
+{
+  "ru": [
+    {
+      "episodeName": "Первые шаги",
+      "previewCaption": "Вуди, наш герой",
+      "hintText": "Слушай советы режисера!\n Так тебе будет гораздо легче продвигаться по игре.",
+      "episodeDescription": "Браться за новое дело — непростая задачка!\n Ты можешь немного попрактиковаться, прежде чем начнется шоу.\n Это отличный шанс научиться управлять Вуди, проходя через двери и поднимаясь или спускаясь по лестнице.\n Попробуй!"
+    },
+    {
+      "episodeName": "Вперед и только вперед",
+      "previewCaption": "Вуди устраивает шалость",
+      "hintText": "Сосед не должен увидеть Вуди, что бы ни случилось!",
+      "episodeDescription": "Now that you know the basic controls, you can pay closer attention to the tricks.\n By the way: the neighbor will be joining the fun now, too.\n You get to play the first trick on him. Watch him get angry.\n Why stop now when you're having so much fun?"
+    },
+    {
+      "episodeName": "Поехали!",
+      "previewCaption": "Вуди крадется",
+      "hintText": "Если ты используешь правую кнопку мыши, Вуди начнет незаметно красться!",
+      "episodeDescription": "Джо хочет завершить вступление кратким обзором предстоящих эпизодов.\n Как лучше пробраться мимо бдительных питомцев? Где можно спрятаться?\n Ты узнаешь это и многое другое.\n Теперь у тебя есть (почти) все навыки, необходимые для сладкой мести."
+    }
+  ],
+
+  "en": [
+    {
+      "episodeName": "First steps",
+      "previewCaption": "Woody, our hero",
+      "hintText": "Listen to the director's instructions!\n They will make things a lot easier.",
+      "episodeDescription": "Getting started is always difficult!\n Here you can practice a little before the show begins.\n This is a good place to try controlling Woody, i.e. makinq him go through doors and up and down Stairs.\n Try it yourself!"
+    },
+    {
+      "episodeName": "Onwards and upwards",
+      "previewCaption": "Woody is playing a trick",
+      "hintText": "Whatever happens. Woody mustn't get caught by his neighbor!",
+      "episodeDescription": "Теперь, когда ты освоил управление, пришло время уделить внимание пакостям.\n Кстати, здесь сосед наконец-то становится частью нашего шоу.\n У тебя есть возможность ему насолить и понаблюдать, как он бесится.\n Дальше будет только веселее, не так ли?"
+    },
+    {
+      "episodeName": "Here we go!",
+      "previewCaption": "Woody sneaking",
+      "hintText": "If you use the right mouse button Woody will 'sneak' instead of walk!",
+      "episodeDescription": "Joe wants to wrap up this introduction by giving you a brief look at future episodes.\n How can you get past the pets? Where can you hide?\n You will learn all this and more.\n You now have (nearly) all the skills you need to take sweet revenge."
+    }
+  ]
+}
