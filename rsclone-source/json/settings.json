@@ -1,6 +1,6 @@
 {
   "ru": {
-    "velocity": "Громкость",
+    "volume": "Громкость",
     "music": "Музыка",
     "resetProgress": "Удалить прогресс игры",
     "timeLimit": "Ограничение по времени",
@@ -10,7 +10,7 @@
   },
 
   "en": {
-    "velocity": "Velocity",
+    "volume": "Volume",
     "music": "Music",
     "resetProgress": "Reset game progress",
     "timeLimit": "Time limit",
